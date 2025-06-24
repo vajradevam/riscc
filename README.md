@@ -57,7 +57,7 @@ Inspect x7 register:
 
 Use GTKWave for debugging registers/memory
 ```
-## 📜 License
+## License
 
 Released under the [MIT License](LICENSE).  
 Copyright (c) 2025 Aman Pathak.
